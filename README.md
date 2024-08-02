@@ -4,3 +4,5 @@ This is a simple implementation of experimenting with different ML models using 
 ## Notebooks
   
 - [Exploratory Data Analysis](./notebooks/01.exploratory-data-analysis.ipynb)
+- [Preprocessing](./notebooks/02.preprocessing.ipynb)
+- [Modeling & Validation](./notebooks/03.modeling-and-evaluation.ipynb)
