@@ -1,6 +1,9 @@
 # House Price Prediction
 
-This is a simple implementation of experimenting with different ML models using Kotlin using the [California Housing Prices](https://www.kaggle.com/datasets/camnugent/california-housing-prices) dataset.
+This is a simple implementation of experimenting with different ML models using **Kotlin** using the [California Housing Prices](https://www.kaggle.com/datasets/camnugent/california-housing-prices) dataset. 
+
+The goal of this project is to **experiment with using Kotlin** for common data science tasks such as loading and manipulating dataframes, visualizing data and training classical machine learning models.
+
 
 ## Notebooks
   
